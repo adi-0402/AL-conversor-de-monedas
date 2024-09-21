@@ -14,7 +14,7 @@ El proyecto es un conversor de monedas que permite a los usuarios convertir valo
 - Conversión entre múltiples divisas (USD, CAD, PEN, etc.)
 - Consulta de tasas de cambio actualizadas en tiempo real a través de una API.
 
-![Captura de Pantalla](https://via.placeholder.com/800x400.png?text=Demostración)
+![Captura de Pantalla](img/prueba.gif)
 
 ## 🛠 Tecnologías Utilizadas
 - Java 17
